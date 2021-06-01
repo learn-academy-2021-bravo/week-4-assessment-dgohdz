@@ -12,7 +12,6 @@ letter_t = 't'
 
 
 
-
 # -------------------2) Create a method that takes in a string and removes all the vowels from the string. Use the test variables provided. HINT: Check out this resource: https://ruby-doc.org/core-2.6/String.html#method-i-delete
 
 album1 = 'Rubber Soul'
