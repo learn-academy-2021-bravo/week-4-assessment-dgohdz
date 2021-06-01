@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: An object is a part of a class.
 
-  Researched answer: The class defines what data and behavior exist in the object.
+  Researched answer: The class is a blue print that defines what data and behavior exist in the object.
 
 
 
@@ -55,12 +55,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 ## Looking Ahead: Terms for Next Week
 
-1. PostgreSQL:
+1. PostgreSQL: open source object-relational database management system
  
-2. Ruby on Rails:
+2. Ruby on Rails: a server-side web application framework written in Ruby
 
-3. CRUD:
+3. CRUD: Create, Read, Update and Delete
 
-4. ORM:
+4. ORM: object relational mapping
 
-5. Active Record:
+5. Active Record: the interface between a Rails application and the database

@@ -24,7 +24,7 @@ const { describe } = require("yargs")
 // a) Create a test with an expect statement using the variable provided.
 
 // describe the name of the function and use variables provided.
-/*describe("shuffleArray", () => {
+describe("shuffleArray", () => {
     let colors1 = ["purple", "blue", "green", "yellow", "pink"]
     let outPut1 = ["yellow", "blue", "pink", "green"]
     let colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "saffron"]
@@ -60,14 +60,14 @@ const shuffleArray = (array) => {
    
    console.log(shuffleArray(colors1, colors2));
    
-*/
+
 
 
 // --------------------2) Create a function that takes an array of numbers and returns an array of the minimum and maximum numbers in that order.
 
 // a) Create a test with expect statements for each of the variables provided.
 
-/*describe("orderNumbers", () => {
+describe("orderNumbers", () => {
     let nums1 = [3, 56, 90, -8, 0, 23, 6]
     let outPut1 = [-8, 90]
     let nums2 = [109, 5, 9, -59, 8, 24]
@@ -99,7 +99,7 @@ const orderNumbers = (array) => {
 }
 //log the function with the variables num1 and num2
 console.log(orderNumbers(nums1, nums2));
-*/
+
 
 
 
